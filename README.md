@@ -1,4 +1,4 @@
-# Companies hiring DevOps, SRE and cloud engineering now (November 2026)
+# DevOps, SRE and cloud companies hiring now (November 2026)
 
 The **100 companies with the most open DevOps, SRE, platform and cloud engineering roles right now**, read directly from their own career sites. Not a job board: every link goes to the company's own careers page.
 

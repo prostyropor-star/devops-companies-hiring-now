@@ -122,6 +122,7 @@ Updated monthly. ⭐ Star the repo to get the next update.
 
 ## More
 
+- Top 100 [sales](https://github.com/prostyropor-star/sales-companies-hiring-now), [marketing](https://github.com/prostyropor-star/marketing-companies-hiring-now) and [recruiting](https://github.com/prostyropor-star/recruiting-companies-hiring-now) employers
 - Search live for any role or keyword (updated at run time, 30,000+ career sites): [Hiring Signals on Apify](https://apify.com/mistlike_potato/hiring-signals-companies-hiring)
 - All five top-100 lists as CSV: [Kaggle dataset](https://www.kaggle.com/datasets/prostyropordata/companies-hiring-now-top-100-by-role-nov-2026)
 - Free top-20 list and analysis: [devops.html](https://prostyropor-star.github.io/companies-hiring-now/devops.html)

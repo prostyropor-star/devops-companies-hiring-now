@@ -122,6 +122,7 @@ Updated monthly. ⭐ Star the repo to get the next update.
 
 ## More
 
+- Search live for any role or keyword (updated at run time, 30,000+ career sites): [Hiring Signals on Apify](https://apify.com/mistlike_potato/hiring-signals-companies-hiring)
 - All five top-100 lists as CSV: [Kaggle dataset](https://www.kaggle.com/datasets/prostyropordata/companies-hiring-now-top-100-by-role-nov-2026)
 - Free top-20 list and analysis: [devops.html](https://prostyropor-star.github.io/companies-hiring-now/devops.html)
 - Top 100 lists: [AI](https://github.com/prostyropor-star/ai-companies-hiring-now) · [Cybersecurity](https://github.com/prostyropor-star/cybersecurity-companies-hiring-now) · [Remote US](https://github.com/prostyropor-star/remote-companies-hiring-now)
